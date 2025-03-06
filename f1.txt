@@ -1,3 +1,5 @@
 hello 
 this is git from linux
 hello this is from feature branch 
+hello
+hi this f1 from bug branch
